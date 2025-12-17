@@ -35,7 +35,8 @@ source("Code files/11_TradeData_prep.R")
 source("Code files/12_US_Summary_stats.R")
 
 #######################################################################################################
-# 3) Download covariate data for SARIMAX
+# 3) Download covariate data for SARIMAX -- not necessary to run for replication (covariate data included in replication package)
+# NOTE: must request an API key from BLS and enter on line 11
 source("Code files/13_CovariatesGet.R")
 
 #######################################################################################################

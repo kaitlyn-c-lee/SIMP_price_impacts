@@ -11,7 +11,6 @@ rm(list = ls())
 
 # Set working directory and input/output folder names
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
-# Make directories for outputting figures and tables
 
 # uncomment on first run
 # devtools::install_github("mikeasilva/blsAPI")

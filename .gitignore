@@ -1,2 +1,13 @@
+# macOS system files
+.DS_Store
+
+# R / RStudio history files
+.Rhistory
+.Rapp.history
+.RData
+
+# RStudio project files (optional but recommended)
+.Rproj.user/
+
 Trade data/Output Data/03_HTS_trade_SIMP.dta
 Trade data/Output Data/03_HTS_trade_SIMP.dta
